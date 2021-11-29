@@ -1,0 +1,8 @@
+carl add
+alice add
+bob add
+donna add
+bob del
+alan add
+alice del
+marco add
